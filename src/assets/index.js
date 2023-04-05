@@ -22,12 +22,10 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import NASA_logo from "./company/NASA_logo.svg.png";
 import smc from "./company/smc.png";
+import sugarlock_logo_color from "./company/sugarlock_logo_color.png"
+import abs_logo from "./company/abs_logo.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,13 +54,11 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   carrent,
   jobit,
   tripguide,
   NASA_logo,
-  smc
+  smc,
+  sugarlock_logo_color,
+  abs_logo
 };

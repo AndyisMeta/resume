@@ -15,16 +15,14 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     carrent,
     jobit,
     tripguide,
     threejs,
     NASA_logo,
-    smc
+    smc,
+    sugarlock_logo_color,
+    abs_logo
   } from "../assets";
   
   export const navLinks = [
@@ -133,7 +131,7 @@ import {
     {
       title: "Test Technician",
       company_name: "Sugarlock",
-      icon: tesla,
+      icon: sugarlock_logo_color,
       iconBg: "#E6DEDD",
       date: "Mar 2017 - Sep 2017",
       points: [
@@ -159,7 +157,7 @@ import {
     {
       title: "Founder, Lead Developer, Digital Artist",
       company_name: "Abundant Blue Skies",
-      icon: meta,
+      icon: abs_logo,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
@@ -205,15 +203,15 @@ import {
         "Web-based platform that allows users to search and display different times from around the world.",
       tags: [
         {
-          name: "react",
+          name: "Dart",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Flutter",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Android Studio",
           color: "pink-text-gradient",
         },
       ],
